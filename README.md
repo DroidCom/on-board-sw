@@ -1,4 +1,4 @@
-android-on-board
+on-board-sw
 ================
 
-On-board Android development repository
+On-board software development repository - Linux, Android or bare metal.
